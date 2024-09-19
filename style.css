@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+.Post{
+    position: absolute;
+    left: 500px;
+    top: 80px;
+    width: 530px;
+    height: 600px;
+    background-color: white;
+}
+
+.post-header{
+    padding: 30px;
+}
+
+.post-header svg {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+  
+}
+
+.header-text h1{
+    font-size: medium;
+    position: absolute;
+    left: 60px;
+    top: 10px;
+}
+
+.header-text p{
+    position: absolute;
+    left: 60px;
+    top: 25px;
+}
+
+.setting-logo svg{
+    position: absolute;
+    height: 30px;
+    font-size: 10px;    
+    left: 480px;
+    top: 25px;
+}
+
+.post-image img{
+    width: 530px;
+    height: 350px;
+}
+
+.post-icons {
+    font-size: 2rem; 
+    margin: 7px;
+}
+
+.post-icons-right{
+    position: absolute;
+    right: 5px;
+    top: 435px;
+}
+
+.post-biography{
+    font-size: 15px;
+}
